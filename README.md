@@ -34,4 +34,4 @@ flowing:
 2. Follow the instructions in the terminal to enter the network interface, target IPs and MACs, and the output pcap file name.
 
 ## Example Execution
-<img loading="lazy" src="https://raw.githubusercontent.com/PacketPlatter/blob/main/Screenshot_617_censored.png"/>
+<img src="/example1.png" width="200px"/>
