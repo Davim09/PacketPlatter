@@ -1,6 +1,8 @@
 # PacketPlatter
 PacketPlatter is an exploit for network systems, focusing on restaurant ordering platforms. These often use insecure HTTP over Wi-Fi, making them prone to ARP spoofing. PacketPlatter intercepts device traffic via ARP Spoofing, exposing unencrypted data like login credentials and cookies for analysis.
 
+[Exploit of this Article](https://medium.com/@davimouar/from-order-to-exploit-a-deep-dive-into-restaurant-network-security-64aeaf3a6f64)
+
 ## Requirements
 
 - Python 3.x
