@@ -30,7 +30,7 @@ flowing:
 
 1. Run the script as root:
     ```bash
-    sudo python3 arpcomanda.py
+    sudo python3 packetplatter.py
     ```
 
 2. Follow the instructions in the terminal to enter the network interface, target IPs and MACs, and the output pcap file name.
