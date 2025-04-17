@@ -1,7 +1,7 @@
 # PacketPlatter
-PacketPlatter is an exploit for network systems, focusing on restaurant ordering platforms. These often use insecure HTTP over Wi-Fi, making them prone to ARP spoofing. PacketPlatter intercepts device traffic via ARP Spoofing, exposing unencrypted data like login credentials and cookies for analysis.
+PacketPlatter is an exploit of [CVE-2025–3329](https://nvd.nist.gov/vuln/detail/CVE-2025-3329) for restaurant ordering platforms. These often use insecure HTTP over Wi-Fi, making them prone to ARP spoofing. PacketPlatter intercepts device traffic via ARP Spoofing, exposing unencrypted data like login credentials and cookies for analysis.
 
-[Exploit of this Article](https://medium.com/@davimouar/from-order-to-exploit-a-deep-dive-into-restaurant-network-security-64aeaf3a6f64)
+[Article PoC](https://medium.com/@davimouar/from-order-to-exploit-a-deep-dive-into-restaurant-network-security-64aeaf3a6f64)
 
 ## Requirements
 
